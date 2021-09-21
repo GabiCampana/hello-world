@@ -1,2 +1,4 @@
 # hello-world
-Project Manager
+Hi humans, 
+
+Gabriela here, I like managing projects and product and I love surfing. 
